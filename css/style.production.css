@@ -308,6 +308,12 @@ th {
   transform: translate(-15px, 0);
 }
 
+.meet_img {
+  width: 100%;
+  border:rgba(0, 0, 0, 0.3) 1px;
+  border-radius: 1px
+}
+
 /* ANIMATIONS */
 
 @-webkit-keyframes color-change {
